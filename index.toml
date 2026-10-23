@@ -91,11 +91,6 @@ hash = "6beb1d27bf94f370291a868c5c5470eb6aaab5f9990ce5d66f3eba0ea4a3fec8"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-alpha-project.pw.toml"
-hash = "94e27b8f721af13341e9787d578073b2f23a6f86e69cff4e5a12fff15016a9e5"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "8a00a9da95c51c24175f0ce73e53cdede857e89ee292432bf26a95831ca73fc6"
 metafile = true
