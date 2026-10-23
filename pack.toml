@@ -1,0 +1,12 @@
+name = "Minoim 2"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9016597c0238e197ab84e659ffd351afdc156ecc2c4427eea67a6b7363fe8d9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"
