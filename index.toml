@@ -241,16 +241,6 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "276da3b2d9f2566484467c3654df5e963b64a56f96a130fd5af88b1413dca65c"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "a8bd418c6fa0d8fafaeeff65467261713ddd0698f4bd7d6e08b4df8f78303910"
-metafile = true
-
-[[files]]
 file = "mods/egg-delight.pw.toml"
 hash = "0737dca47fa6a695bafb4b1a784263672fee3b42349eebd7093dfe1d8d5706a8"
 metafile = true
