@@ -216,6 +216,11 @@ hash = "5c96bd7aeb5b9f393ee2604177b64727750bfa6a9b1e17759b0121da4892c316"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6dc69e48da9a2dadcce285602296efc868b9e429ff3c7cc7a4e99c5dcd10e61a"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "976d09beb4dcab7b2364091459735d425226c6c309fbc3b1c929b308b99476c7"
 metafile = true
