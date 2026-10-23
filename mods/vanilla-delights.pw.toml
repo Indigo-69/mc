@@ -1,0 +1,13 @@
+name = "Vanilla Delights"
+filename = "vanilladelight-1.21.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q5SZGtGt/versions/mAL8Jckh/vanilladelight-1.21.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "4eddd241694e98eb02be3ab5d0650bf539751d8bf546de7fd488989ccc7ebd8599900af30297db3ba3c84583c9b23368955c50ffe96ee231c32bab2ff74a4ac2"
+
+[update]
+[update.modrinth]
+mod-id = "q5SZGtGt"
+version = "mAL8Jckh"
