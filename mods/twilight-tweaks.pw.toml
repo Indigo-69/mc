@@ -1,0 +1,13 @@
+name = "Twilight Tweaks"
+filename = "twilighttweaks-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a6e45df5825d2e48214ff499952bfb80482b65b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6544710
+project-id = 548889

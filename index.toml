@@ -541,8 +541,18 @@ hash = "055283aa7790b335df36917fd72eb9f35f4d5cbe3a1e66d53efba4fe79ec1266"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
 file = "mods/twilight-forest-forms-cobblemon.pw.toml"
 hash = "7aa8730be373bcf179f0f86048a8e1ca4612ae3f0bb799b9718c25c85a3caadb"
+metafile = true
+
+[[files]]
+file = "mods/twilight-tweaks.pw.toml"
+hash = "d807063f867628dd1236234c7336098a6ee20d52060b1b7c9fc2ec9c186b258e"
 metafile = true
 
 [[files]]
