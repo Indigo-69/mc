@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zlrbPCvu/versions/TnGS5djO/playerxp-neoforge-1.1.2%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "2aa485f4d21c4e2fbcb3deeef0eb1de06811debe275c3277c9395581c3a7e982"
+hash-format = "sha512"
+hash = "83fb086d88456448445f82cab6fb182e50d5fd78298bd54ccf880d4baa3d3df4cfbef807dd3e5f130a94e32713143a05a19886ae332d1c2bc03673760dba2dc6"
 
 [update]
 [update.modrinth]

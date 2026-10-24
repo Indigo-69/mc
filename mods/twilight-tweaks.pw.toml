@@ -3,8 +3,8 @@ filename = "twilighttweaks-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "490b58946c7e7afb38bc9f031b1302ea487360f0d72c716b266f307b812d7ee4"
+hash-format = "sha1"
+hash = "3a6e45df5825d2e48214ff499952bfb80482b65b"
 mode = "metadata:curseforge"
 
 [update]

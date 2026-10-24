@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CaOWby9K/versions/IsIw5iAW/MythsAndLegends-neoforge-1.9.0.jar"
-hash-format = "sha256"
-hash = "0f7fcb84a4d3d950beb4d7f10371d282a678160a0e8433524431b42a1b74a50b"
+hash-format = "sha512"
+hash = "9ae04632e18444e70a8d7ffadd7cac7df3be3828ff7007ec24a132381789a09ea6a5541a7f7e7f06904451d60511457df3c8e4e7205bd17581f49df62836d07b"
 
 [update]
 [update.modrinth]

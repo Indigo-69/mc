@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i3XVG2gn/versions/9eiwbAuy/cobbleworkers-neoforge-2.0.6%2B1.8.2.jar"
-hash-format = "sha256"
-hash = "1a9465b9de94407db1d2500d10694b59961c5fddaf751cd62a7d830b5eeb3a4f"
+hash-format = "sha512"
+hash = "161335166aa6cc20f501cdeacafbaa0ef39566321036a81a92420e5fe2b42a72309e4a275c24010ac3f327e16b84b54122f7efaffd1bc0ec55807404b6eef6b6"
 
 [update]
 [update.modrinth]
