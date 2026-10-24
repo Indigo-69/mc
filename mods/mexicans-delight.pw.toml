@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/okkbvyl0/versions/n82VGh7w/mexicansdelight-2.0.0.jar"
-hash-format = "sha512"
-hash = "12036b26ce78fc49d2732483969e49f84b492537b6094574126a7914457e7238d42b74e55e52776df4e9fc1a330b83d9114c8e44d104b5d1ea5d2fcdf15d36c9"
+hash-format = "sha256"
+hash = "ae3a8548baca8e885eaf10bec2b449703f3268163fa737a99c533ccb0736bd11"
 
 [update]
 [update.modrinth]

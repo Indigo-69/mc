@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/iAiqcykM/versions/c9bc4pyu/justzoom_neoforge_3.0.1_MC_1.21.1.jar"
-hash-format = "sha512"
-hash = "0a7cc9cc49237558ec8de742576084767a7204f42d9598ee173fc9fc941282072820823b71bf1fe56f355ccc6d416586906eb42759a64538256147d038f6656a"
+hash-format = "sha256"
+hash = "88909d058e0eeb46749097275dbbf234efb9066d229a69665cd04715648219d7"
 
 [update]
 [update.modrinth]
