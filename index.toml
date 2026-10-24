@@ -51,6 +51,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/better-keep-inventory.pw.toml"
+hash = "6a10e4596dd30d297af2c19a7ad3764045cd2a5b20ea1fbf26b4550585e6597c"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
 metafile = true
@@ -348,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "54ae4d1b65e66b6670b227f50bae76dcef26ac1ffbd2e47f75cce4007153b774"
-metafile = true
-
-[[files]]
-file = "mods/keepinventory.pw.toml"
-hash = "8c1c477b3ce5daa8b567998872211d4e901db738fb10b19338105d53583ef2f0"
 metafile = true
 
 [[files]]

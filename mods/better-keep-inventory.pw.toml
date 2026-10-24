@@ -1,0 +1,13 @@
+name = "Better Keep Inventory"
+filename = "keep_inventory-neoforge-1.21-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d66b974e20a0874c3b5f9c4587207e7f58a5c112"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6152711
+project-id = 1189399

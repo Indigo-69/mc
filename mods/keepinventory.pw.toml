@@ -1,8 +1,0 @@
-name = "keepinventory"
-filename = "keep_inventory-fabric-1.21-0.1.0.jar"
-side = "both"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/6152/742/keep_inventory-fabric-1.21-0.1.0.jar"
-hash-format = "sha256"
-hash = "1e3225281021f9de544bbde78a26c16bc080a5bd82e832dc490866b66e7ccbab"
