@@ -96,6 +96,11 @@ hash = "8a00a9da95c51c24175f0ce73e53cdede857e89ee292432bf26a95831ca73fc6"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-journey-mounts.pw.toml"
+hash = "6f434aa75689237a62052e70721a317f2dae34bc52be92ee1e3eab84bf5cce8a"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "1a480fc3bdd3f3f127f852ac2f3211a6dfdd8bba8d7864d4ab96a168fdf2f5f1"
 metafile = true
@@ -191,6 +196,11 @@ hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "2e6b4b91ba3df20af4e4ff370a1ee2cd97211b066cd09c2c9f801ec96d592b63"
+metafile = true
+
+[[files]]
 file = "mods/create-structures-arise.pw.toml"
 hash = "d07e87a42a1f882ee71b9f68fc531b1b9dcf4637f69fcf0c80322e488cf79171"
 metafile = true
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "72b574928516e3d01e66b4ea3981480dc9c5175121b2001812a6cd0dca2f1b7d"
 metafile = true
 
 [[files]]
@@ -588,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
 
 [[files]]
