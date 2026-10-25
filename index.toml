@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -96,11 +96,6 @@ hash = "8a00a9da95c51c24175f0ce73e53cdede857e89ee292432bf26a95831ca73fc6"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-journey-mounts.pw.toml"
-hash = "6f434aa75689237a62052e70721a317f2dae34bc52be92ee1e3eab84bf5cce8a"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "1a480fc3bdd3f3f127f852ac2f3211a6dfdd8bba8d7864d4ab96a168fdf2f5f1"
 metafile = true
@@ -113,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "c15f2415da5aa18266fd90eb84309f24f575777ddbacfbec02a87754f5884b3d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-server-fix.pw.toml"
+hash = "2574f136070e43be1b0b45ab62f03684dc8de27a751b32c84a592398ce372948"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -266,8 +266,23 @@ hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "80ab2fe154b9e697240ee2e7aaab1098003f7c241e56918e74338c855c9ce3ce"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "741ad359354fce814f9e1cbff6fb0b6eea09f4bb905efef94a32be56b1f64680"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "632f283dcdbb6a5011c03fa1d3e2fa84b1686e8f718550ccaae427b5b9880403"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "a72d0e28aaf0b93d674ac2ba92d9713e63cb91df21739bc7d72db5477a299f32"
 metafile = true
 
 [[files]]
@@ -308,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
 metafile = true
 
 [[files]]
@@ -466,6 +486,11 @@ hash = "cf0bf63bfc6bc80ab6d5f910f7a230871d6b5fd4ce5aa3fdd0fc82382564addd"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
@@ -482,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "435c93ae34e1d4b06fd54d47f5f33791a3d26fce204786213f398fbff674e8f7"
+hash = "35130cd873fff960d8d1d2f658d2d695990be167b2aef55eec767bf115c0269a"
 metafile = true
 
 [[files]]
@@ -502,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]

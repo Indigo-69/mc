@@ -1,0 +1,13 @@
+name = "Cobblemon Server Fix"
+filename = "cobblemonfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RyHGPhR3/versions/e6UBa7RC/cobblemonfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "9c074af5de680bd2ccdde5e05d6ee7a80133c114073143a0e8071e99a9205e7b610a854e170c126bc004490a017efab80dfdae9f1b88f26ed40309559cc6db68"
+
+[update]
+[update.modrinth]
+mod-id = "RyHGPhR3"
+version = "e6UBa7RC"
