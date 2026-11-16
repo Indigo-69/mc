@@ -1,0 +1,13 @@
+name = "Cobblemon Ride Expansion"
+filename = "CRE-v0.0.5-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ovZcfCSI/versions/TSgaxOJ9/CRE-v0.0.5-NeoForge.jar"
+hash-format = "sha512"
+hash = "79d80ea64c00cc350c0066ab9f92d9ccaf27376f3082a78335375ad163ec08b72036ce2472041f0ccece9b7ac371259544bfdea064ad78bb5a7bdebf6da4bfe6"
+
+[update]
+[update.modrinth]
+mod-id = "ovZcfCSI"
+version = "TSgaxOJ9"
